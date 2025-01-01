@@ -1,5 +1,5 @@
 ## Hi there 👋
- I’m currently working on 🔭 Serverless, 🔭 NestJS, 🔭 NextJS and 🌱 Python
+ I’m currently working on 🔭 Serverless  🔭 NestJS  🔭 NextJS and 🌱 Python
 
 <!--
 **dilumdarshana/dilumdarshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
