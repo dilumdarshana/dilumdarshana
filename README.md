@@ -14,7 +14,7 @@ I specialise in TypeScript, ReactJS, NestJS, Express, and serverless architectur
 
 ### 📬 Get in Touch
 📧 **Email:**: [dilum.dar@gmail.com](mailto:dilum.dar@gmail.com)
-💼 **LinkedIn:**: [www.linkedin.com/in/dilumdarshana](www.linkedin.com/in/dilumdarshana)
+💼 **LinkedIn:**: [www.linkedin.com/in/dilumdarshana](//www.linkedin.com/in/dilumdarshana)
 
 Let's connect! 🚀
 
