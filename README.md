@@ -4,9 +4,10 @@ I'm a Full-Stack Developer with 10+ years of experience building scalable web ap
 - 🚀 React.js – Building modern, high-performance UIs 🔭
 - ⚡ Node.js – Developing robust backend services 🔭
 - ☁️ AWS – Architecting and deploying cloud-based solutions 🔭
+- 🧠 Generative AI – Integrating LLMs and building intelligent, AI-powered features 🔭
 - 🐍 Python – Exploring data processing, automation, and backend development 🌱
 
-I specialise in TypeScript, ReactJS, NestJS, Express, and serverless architectures, and I love working with modern web technologies to build efficient and scalable applications.
+I specialise in TypeScript, ReactJS, NestJS, Express, and serverless architectures, and I'm actively building AI-powered applications using modern web technologies and LLMs.
 
 🔹 Passionate about open source & best practices
 🔹 Experienced in API development, microservices, and DevOps
