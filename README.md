@@ -1,23 +1,39 @@
-## 👋 Hi, I'm Dilum Darshana!
+# 👋 Hi, I'm Dilum Darshana!
 
-I'm a Full-Stack Developer with 15+ years of experience building scalable web applications. My main tech stack includes:
-- 🚀 React.js – Building modern, high-performance UIs 🔭
-- ⚡ Node.js – Developing robust backend services 🔭
-- ☁️ AWS – Architecting and deploying cloud-based solutions 🔭
-- 🧠 Generative AI – Integrating LLMs and building intelligent, AI-powered features 🔭
-- 🐍 Python – Exploring data processing, automation, and backend development 🌱
+I'm a **Senior/Lead Full-Stack Engineer** with **15+ years of experience** designing and building scalable web applications, cloud-native systems, and modern developer platforms.
 
-I specialise in TypeScript, ReactJS, NestJS, Express, and serverless architectures, and I'm actively building AI-powered applications using modern web technologies and LLMs.
+## 🚀 Core Technologies
 
-🔹 Passionate about open source & best practices
-🔹 Experienced in API development, microservices, and DevOps
-🔹 Always learning and exploring new technologies
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, NestJS, Express
+- **Cloud:** AWS, Serverless, Docker, Terraform
+- **Databases:** PostgreSQL, MongoDB, DynamoDB
+- **AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP)
+- **Languages:** TypeScript, JavaScript, Python
 
-### 📬 Get in Touch
-📧 **Email:**: [dilum.dar@gmail.com](mailto:dilum.dar@gmail.com)
-💼 **LinkedIn:**: [www.linkedin.com/in/dilumdarshana](//www.linkedin.com/in/dilumdarshana)
+## 💡 About Me
 
-Let's connect! 🚀
+I specialize in **TypeScript**, **React**, **NestJS**, **Express**, and **serverless architectures**, with a strong focus on building scalable, maintainable full-stack applications.
+
+I'm currently expanding my expertise in **Generative AI**, building intelligent applications using **LLMs**, **RAG**, **AI agents**, and modern AI development workflows while combining them with my existing full-stack and cloud experience.
+
+## 🌱 Interests
+
+- Building scalable software architectures
+- Cloud-native application development
+- Generative AI and developer tooling
+- API design, microservices, and event-driven systems
+- DevOps, Infrastructure as Code, and automation
+- Open source and engineering best practices
+
+## 📫 Connect with Me
+
+- 📧 **Email:** <dilum.dar@gmail.com>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dilumdarshana
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate.
 
 <!--
 **dilumdarshana/dilumdarshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
