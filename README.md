@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dilum Darshana!
 
-I'm a Full-Stack Developer with 10+ years of experience building scalable web applications. My main tech stack includes:
+I'm a Full-Stack Developer with 15+ years of experience building scalable web applications. My main tech stack includes:
 - 🚀 React.js – Building modern, high-performance UIs 🔭
 - ⚡ Node.js – Developing robust backend services 🔭
 - ☁️ AWS – Architecting and deploying cloud-based solutions 🔭
